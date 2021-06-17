@@ -1,4 +1,4 @@
 bot_token: 1885671440:AAE-6bl37puf51x2E3acPSRVmIPZUcCejTk
-preview_text 0
-update_interval 1
-error_threshold 100
+preview_text: 0
+update_interval: 1
+error_threshold: 100
