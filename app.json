@@ -1,6 +1,6 @@
 {
     "name": "rss-bot",
-    "description": "A Telegram RSS Bot.",
+    "description": "Telegram RSS Bot.",
     "logo": "https://orsixtyone.cf/images/cover.png",
     "keywords": [
       "rss",
@@ -8,9 +8,9 @@
       "python",
       "rss-bot"
     ],
-    "repository": "https://github.com/reaitten/rss-bot",
-    "website": "https://github.com/reaitten/rss-bot",
-    "success_url": "https://t.me/orsixtyone",
+    "repository": "https://github.com/makubex2010/rss-bot",
+    "website": "https://github.com/makubex2010/rss-bot",
+    "success_url": "https://t.me/PlayStation4Tw",
     "stack": "container",
     "addons": [
       {
