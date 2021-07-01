@@ -19,7 +19,7 @@ Default port number for ``mysql-port`` is ``3306``.
 Most people would go for Heroku, so I assume you must be one of those people.
 
 ## heroku
-<p><a href="https://heroku.com/deploy?template=https://github.com/reaitten/rss-bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/makubex2010/rss-bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 ## credits
 - [indes](https://github.com/indes) for [flowerss-bot](https://github.com/indes/flowerss-bot)
