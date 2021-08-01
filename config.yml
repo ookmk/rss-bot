@@ -2,9 +2,3 @@ bot_token: 1217183416:AAGguh1XmBhKmTjUB_a3spM5rVSzMDAMLvw
 preview_text: 0
 update_interval: 1
 error_threshold: 100
-mysql:
-  host: ro2padgkirvcf55m.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
-  port: 3306
-  user: nftmr0e3sk541yvr
-  password: w0ik5d6tl2fw2hae
-  database: s33wriluh05oujuf
