@@ -2,3 +2,5 @@ bot_token: 1217183416:AAGguh1XmBhKmTjUB_a3spM5rVSzMDAMLvw
 preview_text: 0
 update_interval: 1
 error_threshold: 100
+sqlite:
+  path: ./data.db
