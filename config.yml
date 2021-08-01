@@ -7,4 +7,4 @@ mysql:
   port: 3306
   user: b8bbcefb1eec0b
   password: d586d8bc
-  database: heroku_e8b25730c0238a9?reconnect=true
+  database: heroku_e8b25730c0238a9
