@@ -2,3 +2,9 @@ bot_token: 1217183416:AAGguh1XmBhKmTjUB_a3spM5rVSzMDAMLvw
 preview_text: 0
 update_interval: 1
 error_threshold: 100
+mysql:
+  host: us-cdbr-east-04.cleardb.com
+  port: 3306
+  user: b8bbcefb1eec0b
+  password: d586d8bc
+  database: heroku_e8b25730c0238a9?reconnect=true
