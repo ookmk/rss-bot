@@ -3,8 +3,8 @@ preview_text: 0
 update_interval: 1
 error_threshold: 100
 mysql:
-  host: database-1.crn2x85tf67q.ap-northeast-1.rds.amazonaws.com
+  host: ro2padgkirvcf55m.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
   port: 3306
-  user: makubex800211@gmail.com
-  password: Qw52105210
-  database: database-1
+  user: nftmr0e3sk541yvr
+  password: w0ik5d6tl2fw2hae
+  database: s33wriluh05oujuf
