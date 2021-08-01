@@ -2,5 +2,9 @@ bot_token: 1217183416:AAGguh1XmBhKmTjUB_a3spM5rVSzMDAMLvw
 preview_text: 0
 update_interval: 1
 error_threshold: 100
-sqlite:
-  path: ./data.db
+mysql:
+  host: us-cdbr-east-04.cleardb.com
+  port: 3306
+  user: b30cb47e8ac26e
+  password: 0eaf554c
+  database: heroku_b9d6754d3fff4be
