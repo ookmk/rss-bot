@@ -3,8 +3,8 @@ preview_text: 0
 update_interval: 1
 error_threshold: 100
 mysql:
-  host: us-cdbr-east-04.cleardb.com
+  host: database-1.crn2x85tf67q.ap-northeast-1.rds.amazonaws.com
   port: 3306
-  user: b8bbcefb1eec0b
-  password: d586d8bc
-  database: heroku_e8b25730c0238a9
+  user: makubex800211@gmail.com
+  password: Qw52105210
+  database: database-1
