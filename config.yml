@@ -2,9 +2,5 @@ bot_token: 1217183416:AAGguh1XmBhKmTjUB_a3spM5rVSzMDAMLvw
 preview_text: 0
 update_interval: 1
 error_threshold: 100
-mysql:
-  host: ec2-3-230-38-145.compute-1.amazonaws.com
-  port: 5432
-  user: lezejhktbvdoef
-  password: ff14d57befd1111a9a879bc1b599973bf52230d667a743fb9e6b2afe5cb20db9
-  database: dem5aoktrb79cv
+sqlite:
+path: ./data.db
