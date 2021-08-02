@@ -9,7 +9,7 @@ RSS 機器人。 使用 indes/flowerss-bot。
 
 使用 ClearDB MySQL (for heroku) 來保存 RSS 配置。 在config.yml中的mysql下添加。
 
-示例：變量 CLEARDB_DATABASE_URL
+示例： CLEARDB_DATABASE_URL
 
 mysql://"mysql-user":"mysql-password"@"mysql-host"/mysql-database"
 
