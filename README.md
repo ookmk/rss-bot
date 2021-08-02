@@ -19,7 +19,7 @@ mysql-port 的默認端口號是 3306。
 大多數人會選擇 Heroku，所以我想你一定是這些人中的一員。
 
 ## heroku
-<p><a href="https://heroku.com/deploy?template=https://github.com/makubex2010/rss-bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+"repository":https://github.com/makubex2010/rss-bot
 
 ## 來源
 - [indes](https://github.com/indes) for [flowerss-bot](https://github.com/indes/flowerss-bot)
