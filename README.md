@@ -11,7 +11,7 @@ RSS 機器人。 使用 indes/flowerss-bot。
 
 示例：變量 CLEARDB_DATABASE_URL
 
-mysql://"mysql-user":<mysql-password>@"mysql-host"/}mysql-database"
+mysql://"mysql-user":"mysql-password"@"mysql-host"/mysql-database"
 
 mysql-port 的默認端口號是 3306。
 
