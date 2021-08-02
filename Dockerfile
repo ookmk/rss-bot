@@ -8,10 +8,10 @@ RUN chmod +x /app/flowerss-bot
 COPY . /app
 
 
-RUN sed -i '/zh_tw.UTF-8/s/^# //g' /etc/locale.gen && \ 
+RUN sed -i '/en_US.UTF-8/s/^# //g' /etc/locale.gen && \ 
 locale-gen
-ENV LANG zh_tw.UTF-8
-ENV LANGUAGE zh_tw:TW
-ENV LC_ALL zh_tw.UTF-8
+ENV LANG en_US.UTF-8
+ENV LANGUAGE en_US:en
+ENV LC_ALL en_US.UTF-8
 
 CMD ["bash","start.sh"]
