@@ -11,3 +11,5 @@ mysql:
   user: b30cb47e8ac26e
   password: 0eaf554c
   database: heroku_b9d6754d3fff4be
+sqlite:
+  path: ./data.db
