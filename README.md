@@ -1,5 +1,5 @@
 # rss-bot
-RSS 機器人。 使用 indes/flowerss-bot。
+RSS 機器人。 使用的indes/flowerss-bot。
 
 請將此 repo 模板化，將其設為私有，並將您的變量添加到 config.yml。
 
