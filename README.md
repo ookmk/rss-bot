@@ -15,13 +15,7 @@ mysql://"mysql-user":"mysql-password"@"mysql-host"/mysql-database"
 
 mysql-port 的默認端口號是 3306。
 
-mysql:
-  host: mysql-host
-  port: 3306
-  user: mysql-user
-  password: mysql-password
-  database: mysql-database
-
+![image](https://user-images.githubusercontent.com/67411136/128677426-d72339f5-d271-42cb-9339-fbaea60ed91f.png)
 
 ## heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/makubex2010/rss-bot)
