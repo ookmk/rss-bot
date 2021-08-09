@@ -8,5 +8,3 @@ mysql:
   user: bac817b4d84a90
   password: 3282215f
   database: heroku_2c86e13320b9c16
-sqlite:
-  path: ./data.db
