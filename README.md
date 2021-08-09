@@ -1,7 +1,7 @@
 # rss-bot
-使用 heroku 部屬的 RSS 機器人。 使用代碼來自於 indes/flowerss-bot。
+使用 heroku 部屬的 RSS 機器人。 使用源代碼來自於 indes/flowerss-bot。
 
-請將此代碼下載，並上傳到你自己的帳號，將您的配置添加到 config.yml。
+請將此源代碼下載，並上傳到你自己的帳號，將您的配置添加到 config.yml。
 
 將config.yml內容修改，然後添加您的配置。 如果您不知道其他配置的作用，請不要動它們。
 
