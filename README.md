@@ -3,7 +3,7 @@
 
 請將此代碼下載，並上傳到你自己的帳號，將您的配置添加到 config.yml。
 
-將 config_sample.yml 重命名為 config.yml，然後添加您的配置。 如果您不知道其他配置的作用，請不要動它們。
+將config.yml內容修改，然後添加您的配置。 如果您不知道其他配置的作用，請不要動它們。
 
 ![image](https://user-images.githubusercontent.com/67411136/128676810-c80a8e98-33f5-49e5-9ca2-2d84add6f563.png)
 
