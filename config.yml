@@ -1,6 +1,6 @@
 bot_token: 1921211013:AAGwDXKxO7XUTwdPixERGPD5yXZax5P8pWg
 preview_text: 0
-update_interval: 1
+update_interval: 5
 error_threshold: 100
 mysql:
   host: us-cdbr-east-04.cleardb.com
